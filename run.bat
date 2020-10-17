@@ -1,6 +1,7 @@
 @echo off
 goto start
 :start
+cls
 echo ------------------------------------
 echo -------Youtube Mp3 Downloader-------
 echo ---------Author: duc010298----------
